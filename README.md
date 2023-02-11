@@ -1,1 +1,1 @@
-# api-studos-alura
+# api-estudos-alura
